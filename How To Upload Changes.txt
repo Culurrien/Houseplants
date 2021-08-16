@@ -1,5 +1,3 @@
-
-
 How to Upload Changes
 -----------------------------
 (It is recommended to always download any changes before uploading, just to be safe)
