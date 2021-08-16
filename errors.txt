@@ -2,9 +2,23 @@
 errors listed below, and try again.
 
 
-File "game/silveryann.rpy", line 16: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
-    menu:
-    ^
+The label badend1 is defined twice, at File "game/DialogueScripts/badend1.rpy", line 1:
+label badend1:
+and File "game/badend1.rpyc", line 1:
+label badend1:
+
+
+The label silveryann is defined twice, at File "game/DialogueScripts/silveryann.rpy", line 1:
+label silveryann:
+and File "game/silveryann.rpyc", line 1:
+label silveryann:
+
+
+The label stringofhearts is defined twice, at File "game/DialogueScripts/stringofhearts.rpy", line 1:
+label stringofhearts:
+and File "game/stringofhearts.rpyc", line 1:
+label stringofhearts:
+
 
 Ren'Py Version: Ren'Py 7.4.8.1895
-Sat Aug 14 19:07:39 2021
+Sun Aug 15 21:50:15 2021

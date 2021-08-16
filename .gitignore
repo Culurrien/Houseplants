@@ -2,3 +2,6 @@
 /game/saves/
 /game/cache/
 log.txt
+.vscode/
+VisualStudioCode.edit.py
+errors.txt
