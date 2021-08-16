@@ -10,7 +10,7 @@ How to Upload Changes
 
 3) Type 'git commit -m "[Enter message here about what was changed]"'
 
-4) Type 'git push -u origin master'
+4) Type 'git push'
 
 
 
