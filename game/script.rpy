@@ -1,9 +1,4 @@
-﻿# The script of the game goes in this file.
-
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
-define M = Character('MC')
+﻿define M = Character('MC')
 define P = Character('Pegi')
 define A = Character('Ann')
 
@@ -102,5 +97,4 @@ label day2:
 
     "The houseplants were happy. They lived happily everafter!"
 
-# This ends the game.
 return

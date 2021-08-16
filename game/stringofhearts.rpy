@@ -12,6 +12,3 @@ label stringofhearts:
     M "The color of the leaves isn't quite right for a variegated string of hearts..."
 
     jump closerlook
-
-    # If the user has viewed both of the chocie options (Silveryann and
-    # stringofhearts), then I'd like to move on to the next scene (day2).

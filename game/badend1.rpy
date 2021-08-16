@@ -76,6 +76,8 @@ label badend1:
     M "...I mean..."
 
     # I'd like for the screen to slowly be zooming in on her face at an angle.
+    # Also curious what kind of screen things we can do (shaky camera, other
+    # spooky effects)
 
     show miki opensmile closedeyesblush
 

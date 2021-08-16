@@ -1,2 +1,5 @@
 Use a simplified message: Filename > Line number the comment starts
 ------------------------------
+script.rpy > lines 12, 40, 50, 52, 72
+
+badend1.rpy > line 78

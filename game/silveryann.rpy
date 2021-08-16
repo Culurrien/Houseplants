@@ -11,10 +11,8 @@ label silveryann:
 
     M "Let's see... hmm, the leaves are curling up. That's unusual."
 
-    # This text should stay on screen as the player selects the next options.
-    "Want to check anything else?"
-
     menu:
+        "Want to check anything else?"
         "Touch the Soil":
             jump touchthesoil
         "Look Under the Leaves":
