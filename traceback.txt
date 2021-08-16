@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/silveryann.rpy", line 19, in script
+    jump touchthesoil
+ScriptError: could not find label 'touchthesoil'.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/silveryann.rpy", line 19, in script
+    jump touchthesoil
+  File "renpy/ast.py", line 1752, in execute
+    rv = renpy.game.script.lookup(target)
+  File "renpy/script.py", line 918, in lookup
+    raise ScriptError("could not find label '%s'." % str(original))
+ScriptError: could not find label 'touchthesoil'.
+
+Windows-10-10.0.19041
+Ren'Py 7.4.8.1895
+Houseplants 1.0
+Sat Aug 14 19:11:25 2021
