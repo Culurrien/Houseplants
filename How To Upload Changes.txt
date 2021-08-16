@@ -1,0 +1,24 @@
+
+
+How to Upload Changes
+-----------------------------
+(It is recommended to always download any changes before uploading, just to be safe)
+
+1) Open the terminal window with ctrl + `
+
+2) Type 'git add .'
+
+3) Type 'git commit -m "[Enter message here about what was changed]"'
+
+4) Type 'git push -u origin master'
+
+
+
+
+How to Download Changes
+----------------------------
+1) Open the terminal window with ctrl + `
+
+2) Type 'git pull'
+
+3) Done
